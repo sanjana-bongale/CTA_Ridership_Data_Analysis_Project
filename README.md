@@ -41,9 +41,7 @@ This dashboard enables **detailed comparisons and trend analysis** of CTA riders
 - **Filters** – Allows selection by **year, quarter, month, and day type** to explore specific trends.  
 - **Average Line** – Provides an **average ridership benchmark** to help analyze whether a particular quarter’s ridership was above or below the historical average.
 
----
-
-💡 **Dynamic Feature:** 
+### **Dynamic Feature:** 
 - **Reset Filters Button** – Enables users to **clear all applied filters** and restore the default view. It restores default settings by clearing all selected filters.  
 - **All filters impact every visualization simultaneously**, ensuring an **interactive and seamless experience** when analyzing trends.  
 
@@ -63,14 +61,12 @@ This dashboard enables **detailed comparisons and trend analysis** of CTA riders
 
 ## 📈 **Key Learnings & Insights**  
 
-### 📉 **Impact of COVID-19 on CTA Ridership**  
+### **Impact of COVID-19 on CTA Ridership**  
 - A **sharp decline in ridership is evident during 2020-2021**, aligning with the pandemic’s impact.  
 - **Bus and rail boardings dropped significantly**, especially during lockdown periods.  
 - **Monthly and quarterly trends confirm that ridership post-COVID remains lower than pre-pandemic levels**, though a gradual recovery is visible.
 
----
-
-## 🎨 **Design & Color Matching**  
+### **Design & Color Matching**  
 - The dashboards follow **CTA’s official color scheme** for brand alignment.  
 - Heatmaps use **color intensity** to emphasize ridership variations effectively.  
 
