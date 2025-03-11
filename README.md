@@ -18,8 +18,6 @@ This dataset contains daily boarding totals for CTA services, including rail and
 - **Rail Boardings** – Total number of rail rides on a given day.  
 - **Total Rides** – Sum of bus and rail boardings for the day.  
 
-An **average ridership metric** has been added to analyze performance trends, identifying periods where ridership was below or above the historical average.  
-
 ---
 
 ## 📊 Dashboards  
@@ -38,7 +36,8 @@ This dashboard explores comparisons and trends in ridership:
 - **Quarterly Rides by Year (Stacked Bar Chart)** – Displays ridership trends across all four quarters for each year.  
 - **Yearly Trends for Bus and Rail (Dual-Axis Line Chart)** – Shows annual trends in ridership for both transportation modes.  
 - **Quarterly Trends in Total Rides Over Time (Line Chart)** – Highlights fluctuations in total ridership across quarters.  
-- **Filters** – Allows selection by **year, quarter, month, and day type** to analyze specific patterns.  
+- **Filters** – Allows selection by **year, quarter, month, and day type** to analyze specific patterns.
+- **Average Line** – An **average ridership metric** has been added to analyze performance trends, identifying periods where ridership was below or above the historical average.  
 
 💡 **Dynamic Feature:**  
 All filters **affect every visualization simultaneously**, ensuring an **interactive and cohesive experience** when exploring trends.  
