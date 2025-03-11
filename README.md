@@ -1,6 +1,6 @@
 # CTA Ridership Data Analysis Project
 
-This Tableau project analyzes **Chicago Transit Authority (CTA) ridership trends (2015-2024) ** using data from (https://data.gov/))] CTa Dataset: (https://catalog.data.gov/dataset/cta-ridership-daily-boarding-totals)]). The project includes multiple visualizations to explore trends over time (2015-2024), including two dashboards and two heatmaps.  
+This Tableau project analyzes **Chicago Transit Authority (CTA) ridership trends (2015-2024) ** using data from https://data.gov/ CTa Dataset: https://catalog.data.gov/dataset/cta-ridership-daily-boarding-totals. The project includes multiple visualizations to explore trends over time (2015-2024), including two dashboards and two heatmaps.  
 
 ## About Dataset
 ----
